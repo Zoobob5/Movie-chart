@@ -13,12 +13,13 @@ This project is a simple movie recommendation system built in Python. It uses a 
 
 ## Project Structure
 
-├── bfs.py # Contains the BFS algorithm for movie recommendations
-├── dfs.py # Contains the DFS algorithm for movie recommendations
-├── graph.py # Function to build the movie graph
-├── script.py # Main script to run the program
-├── movies.py # Contains the movie dataset
-└── README.md # Project documentation
+- **bfs.py**: Contains the BFS algorithm for movie recommendations
+- **dfs.py**: Contains the DFS algorithm for movie recommendations
+- **graph.py**: Function to build the movie graph
+- **main.py**: Main script to run the program
+- **movies.py**: Contains the movie dataset
+- **README.md**: Project documentation
+
 
 
 
@@ -32,4 +33,3 @@ Movies related to Inception:
 - Men in Black
 - Pulp Fiction
 - Toy Story
-
